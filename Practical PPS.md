@@ -20,3 +20,5 @@ int main() {
   return 0;
 }
 ```
+
+![Image](https://github.com/niraniagautam-sketch/PPS_CEA_Dec2025/blob/main/gautam%20.png)
