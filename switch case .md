@@ -24,4 +24,4 @@ int main(){
 }
 ```
 
-![]()
+![capture](https://github.com/niraniagautam-sketch/PPS_CEA_Dec2025/blob/main/Capture.PNG)
